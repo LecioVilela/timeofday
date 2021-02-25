@@ -23,6 +23,16 @@ div {
     padding: 8px;
 }
 
+#image {
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    border-radius: 30%;
+    box-shadow: 0 8px 55px #927384;
+    
+    
+}
+
 footer {
     color: white;
     text-align: center;
